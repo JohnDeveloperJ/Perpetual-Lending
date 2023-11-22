@@ -31,7 +31,7 @@ A step-by-step series of examples that tell you how to get a development environ
 
 1. Clone the repo:
    ```sh
-   git clone https://github.com/yourusername/lending-protocol.git
+  gh repo clone JohnDeveloperJ/Perpetual-Lending
    ```
 2. Install NPM packages:
    ```sh
